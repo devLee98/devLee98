@@ -40,16 +40,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 <br />
 
-## Currently
-
-- **AWS** 를 공부하고 있습니다. 프론트엔드에서 끝나지 않고 배포와 인프라까지 이해하는 것이 목표입니다.
-- 만들어 둔 것들은 아래 **Pinned repositories** 에 정리해 두었습니다.
-
-<br />
 
 ## Contact
 
-- **Email** · dudcks6813@naver.com
+- **Email** · iiyoungchan@naver.com
 
 <!-- 블로그가 생기면 아래 줄의 주석을 풀고 주소를 채우세요.
 - **Blog** · https://velog.io/@아이디
